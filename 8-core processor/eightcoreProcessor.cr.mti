@@ -1,0 +1,190 @@
+{E:/8-core processor/Top Module.v} {1 {vlog -work work -stats=none {E:\8-core processor\Top Module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Top_module
+
+Top level modules:
+	Top_module
+
+} {} {}} {E:/8-core processor/Instruction Memory tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Instruction Memory tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_memory_tb
+
+Top level modules:
+	Instruction_memory_tb
+
+} {} {}} {E:/8-core processor/General Purpose Register.v} {1 {vlog -work work -stats=none {E:/8-core processor/General Purpose Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module General_purpose_register
+
+Top level modules:
+	General_purpose_register
+
+} {} {}} {E:/8-core processor/Address Register tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Address Register tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Address_register_tb
+
+Top level modules:
+	Address_register_tb
+
+} {} {}} {E:/8-core processor/Data Memory tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Data Memory tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_memory_tb
+
+Top level modules:
+	Data_memory_tb
+
+} {} {}} {E:/8-core processor/Accumilator tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Accumilator tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Accumilator_tb
+
+Top level modules:
+	Accumilator_tb
+
+} {} {}} {E:/8-core processor/State Machine tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/State Machine tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module State_machine_tb
+
+Top level modules:
+	State_machine_tb
+
+} {} {}} {E:/8-core processor/Accumilator.v} {1 {vlog -work work -stats=none {E:/8-core processor/Accumilator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Accumilator
+
+Top level modules:
+	Accumilator
+
+} {} {}} {E:/8-core processor/Instruction Register tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Instruction Register tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_register_tb
+
+Top level modules:
+	Instruction_register_tb
+
+} {} {}} {E:/8-core processor/Data Register tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Data Register tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_register_tb
+
+Top level modules:
+	Data_register_tb
+
+} {} {}} {E:/8-core processor/State Machine.v} {1 {vlog -work work -stats=none {E:\8-core processor\State Machine.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module State_machine
+
+Top level modules:
+	State_machine
+
+} {} {}} {E:/8-core processor/General Purpose Register tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/General Purpose Register tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module General_purpose_register_tb
+
+Top level modules:
+	General_purpose_register_tb
+
+} {} {}} {E:/8-core processor/Main Mux.v} {1 {vlog -work work -stats=none {E:/8-core processor/Main Mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_mux
+
+Top level modules:
+	Main_mux
+
+} {} {}} {E:/8-core processor/Top Module tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Top Module tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Top_module_tb
+
+Top level modules:
+	Top_module_tb
+
+} {} {}} {E:/8-core processor/ALU tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/ALU tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {E:/8-core processor/ALU.v} {1 {vlog -work work -stats=none {E:/8-core processor/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/8-core processor/ALU Mux tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/ALU Mux tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_mux_tb
+
+Top level modules:
+	ALU_mux_tb
+
+} {} {}} {E:/8-core processor/Address Register.v} {1 {vlog -work work -stats=none {E:/8-core processor/Address Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Address_register
+
+Top level modules:
+	Address_register
+
+} {} {}} {E:/8-core processor/Data Memory.v} {1 {vlog -work work -stats=none {E:\8-core processor\Data Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_memory
+
+Top level modules:
+	Data_memory
+
+} {} {}} {E:/8-core processor/Instruction Memory.v} {1 {vlog -work work -stats=none {E:\8-core processor\Instruction Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} {E:/8-core processor/ALU Mux.v} {1 {vlog -work work -stats=none {E:\8-core processor\ALU Mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_mux
+
+Top level modules:
+	ALU_mux
+
+} {} {}} {E:/8-core processor/Multi Core.v} {1 {vlog -work work -stats=none {E:\8-core processor\Multi Core.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multi_core
+
+Top level modules:
+	Multi_core
+
+} {} {}} {E:/8-core processor/Main Mux tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Main Mux tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_mux_tb
+
+Top level modules:
+	Main_mux_tb
+
+} {} {}} {E:/8-core processor/Program Counter tb.v} {1 {vlog -work work -stats=none {E:/8-core processor/Program Counter tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Program_counter_tb
+
+Top level modules:
+	Program_counter_tb
+
+} {} {}} {E:/8-core processor/Data Register.v} {1 {vlog -work work -stats=none {E:/8-core processor/Data Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_register
+
+Top level modules:
+	Data_register
+
+} {} {}} {E:/8-core processor/Instruction Register.v} {1 {vlog -work work -stats=none {E:/8-core processor/Instruction Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_register
+
+Top level modules:
+	Instruction_register
+
+} {} {}} {E:/8-core processor/Program Counter.v} {1 {vlog -work work -stats=none {E:/8-core processor/Program Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Program_counter
+
+Top level modules:
+	Program_counter
+
+} {} {}}

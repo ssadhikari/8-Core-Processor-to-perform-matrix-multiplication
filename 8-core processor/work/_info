@@ -1,0 +1,659 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vAccumilator
+Z0 !s110 1625763832
+!i10b 1
+!s100 e;Z[[JMSPVY8MgBJDaDg90
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2NgM@4inIdca=P7hlXUWK3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/8-core processor
+w1624427546
+8E:/8-core processor/Accumilator.v
+FE:/8-core processor/Accumilator.v
+!i122 37
+L0 1 12
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1625763832.000000
+!s107 E:/8-core processor/Accumilator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Accumilator.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@accumilator
+vAccumilator_tb
+R0
+!i10b 1
+!s100 E5C0f<07i<22Pz1z?GZMS3
+R1
+I]3FHSo3iT7dknY0c>OUJ20
+R2
+R3
+Z8 w1624359284
+8E:/8-core processor/Accumilator tb.v
+FE:/8-core processor/Accumilator tb.v
+!i122 36
+Z9 L0 1 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/8-core processor/Accumilator tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Accumilator tb.v|
+!i113 1
+R6
+R7
+n@accumilator_tb
+vAddress_register
+Z10 !s110 1625763833
+!i10b 1
+!s100 [Q>=PFz[OP7fPAM?Kh4O41
+R1
+I=[1ok;ocg`2EbZMSiW_gm1
+R2
+R3
+w1624986406
+8E:/8-core processor/Address Register.v
+FE:/8-core processor/Address Register.v
+!i122 39
+L0 2 11
+R4
+r1
+!s85 0
+31
+Z11 !s108 1625763833.000000
+!s107 E:/8-core processor/Address Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Address Register.v|
+!i113 1
+R6
+R7
+n@address_register
+vAddress_register_tb
+R10
+!i10b 1
+!s100 5UgU9nhYUFdRg@Zj<0dZJ1
+R1
+IT1e4fbC69hRUhc:nl09m?1
+R2
+R3
+w1624986566
+8E:/8-core processor/Address Register tb.v
+FE:/8-core processor/Address Register tb.v
+!i122 38
+L0 1 30
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/8-core processor/Address Register tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Address Register tb.v|
+!i113 1
+R6
+R7
+n@address_register_tb
+vALU
+R10
+!i10b 1
+!s100 ?cWNTLbTo`<;1`FgLQO_V0
+R1
+I2nz`H4:3]@c2TnBeR6`l43
+R2
+R3
+w1625043396
+8E:/8-core processor/ALU.v
+FE:/8-core processor/ALU.v
+!i122 43
+L0 1 26
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/8-core processor/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_mux
+!s110 1625765031
+!i10b 1
+!s100 9dk4LKQnHQkS8ig7fiWQF3
+R1
+I:0^Ah`k4eVefnzJ_;:jZd3
+R2
+R3
+w1625765019
+8E:\8-core processor\ALU Mux.v
+FE:\8-core processor\ALU Mux.v
+!i122 63
+L0 2 25
+R4
+r1
+!s85 0
+31
+!s108 1625765031.000000
+!s107 E:\8-core processor\ALU Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\ALU Mux.v|
+!i113 1
+R6
+R7
+n@a@l@u_mux
+vALU_mux_tb
+R10
+!i10b 1
+!s100 XIidI>OnLGkYbeTTa>MYX1
+R1
+IKPj[Ge8UNV]2^^Sd=8?fT2
+R2
+R3
+w1624359784
+8E:/8-core processor/ALU Mux tb.v
+FE:/8-core processor/ALU Mux tb.v
+!i122 40
+L0 2 42
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/8-core processor/ALU Mux tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/ALU Mux tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_mux_tb
+vALU_tb
+R10
+!i10b 1
+!s100 ZlU52?^=<>U0AhMn4kNXO1
+R1
+I1g`g=KYTob56B1C369U@00
+R2
+R3
+R8
+8E:/8-core processor/ALU tb.v
+FE:/8-core processor/ALU tb.v
+!i122 42
+L0 1 46
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/8-core processor/ALU tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/ALU tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_tb
+vData_memory
+Z12 !s110 1625763834
+!i10b 1
+!s100 >JFUhVoTNnlBbOG7^zQ?m1
+R1
+Il<Rj_WQTnK`?3jC:YWJJO0
+R2
+R3
+w1625762225
+8E:\8-core processor\Data Memory.v
+FE:\8-core processor\Data Memory.v
+!i122 45
+L0 1 59
+R4
+r1
+!s85 0
+31
+Z13 !s108 1625763834.000000
+!s107 E:\8-core processor\Data Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\Data Memory.v|
+!i113 1
+R6
+R7
+n@data_memory
+vData_memory_tb
+R12
+!i10b 1
+!s100 _>36i8g:@TYd8kZbU^_VA1
+R1
+IA?ldM871cJcdWIEmi0KE43
+R2
+R3
+w1624455934
+8E:/8-core processor/Data Memory tb.v
+FE:/8-core processor/Data Memory tb.v
+!i122 44
+L0 1 45
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/8-core processor/Data Memory tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Data Memory tb.v|
+!i113 1
+R6
+R7
+n@data_memory_tb
+vData_register
+R12
+!i10b 1
+!s100 1g6=mnl_z^FNY58:]g2Ng1
+R1
+IE__2?l?OMzgWIMB6YFMfl3
+R2
+R3
+w1624427566
+8E:/8-core processor/Data Register.v
+FE:/8-core processor/Data Register.v
+!i122 47
+L0 1 13
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/Data Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Data Register.v|
+!i113 1
+R6
+R7
+n@data_register
+vData_register_tb
+R12
+!i10b 1
+!s100 O]CIO=]]aS_z?BiLKWP9R1
+R1
+ISIbEz8_FFMK6Joo4OWl841
+R2
+R3
+R8
+8E:/8-core processor/Data Register tb.v
+FE:/8-core processor/Data Register tb.v
+!i122 46
+R9
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/Data Register tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Data Register tb.v|
+!i113 1
+R6
+R7
+n@data_register_tb
+vGeneral_purpose_register
+R12
+!i10b 1
+!s100 XaZ0M]JN[n][ME5BPz=833
+R1
+IVZ:dO0]5Ua5UAASE[Q@681
+R2
+R3
+w1624427554
+8E:/8-core processor/General Purpose Register.v
+FE:/8-core processor/General Purpose Register.v
+!i122 49
+Z14 L0 1 14
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/General Purpose Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/General Purpose Register.v|
+!i113 1
+R6
+R7
+n@general_purpose_register
+vGeneral_purpose_register_tb
+R12
+!i10b 1
+!s100 Jib2h=XD34Z3oHm>X4^lZ2
+R1
+I3Pc<EmCQmeG05EPKJhi8e0
+R2
+R3
+R8
+8E:/8-core processor/General Purpose Register tb.v
+FE:/8-core processor/General Purpose Register tb.v
+!i122 48
+R9
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/General Purpose Register tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/General Purpose Register tb.v|
+!i113 1
+R6
+R7
+n@general_purpose_register_tb
+vInstruction_memory
+R12
+!i10b 1
+!s100 [dB8DDZ2PkEnYXN;54fR]0
+R1
+IU2H=72a:Moi:Vaz[X[81P2
+R2
+R3
+w1625762524
+8E:\8-core processor\Instruction Memory.v
+FE:\8-core processor\Instruction Memory.v
+!i122 51
+L0 1 126
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:\8-core processor\Instruction Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\Instruction Memory.v|
+!i113 1
+R6
+R7
+n@instruction_memory
+vInstruction_memory_tb
+R12
+!i10b 1
+!s100 H<dMQ>OlncD9bAXO]oYWi1
+R1
+IQazbIc3HNnfCWUJ7lbm_O2
+R2
+R3
+w1624456636
+8E:/8-core processor/Instruction Memory tb.v
+FE:/8-core processor/Instruction Memory tb.v
+!i122 50
+L0 1 34
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/Instruction Memory tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Instruction Memory tb.v|
+!i113 1
+R6
+R7
+n@instruction_memory_tb
+vInstruction_register
+Z15 !s110 1625763835
+!i10b 1
+!s100 DRc6Q>DG_[Rm@UH@1];ak0
+R1
+Ia:GbZ_7Zmbmbg:mZLBniQ3
+R2
+R3
+w1624427562
+8E:/8-core processor/Instruction Register.v
+FE:/8-core processor/Instruction Register.v
+!i122 53
+L0 1 11
+R4
+r1
+!s85 0
+31
+Z16 !s108 1625763835.000000
+!s107 E:/8-core processor/Instruction Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Instruction Register.v|
+!i113 1
+R6
+R7
+n@instruction_register
+vInstruction_register_tb
+R12
+!i10b 1
+!s100 A8HA6I?3ihE8]18gMH1i43
+R1
+IocjIjfz1zgg5Db0_h^:IQ3
+R2
+R3
+R8
+8E:/8-core processor/Instruction Register tb.v
+FE:/8-core processor/Instruction Register tb.v
+!i122 52
+R9
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/8-core processor/Instruction Register tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Instruction Register tb.v|
+!i113 1
+R6
+R7
+n@instruction_register_tb
+vMain_mux
+R15
+!i10b 1
+!s100 hQRD>SU]jUGPo?dml=ll;0
+R1
+Ic:f0Eo4:b:Ak43]j?KlCd3
+R2
+R3
+w1624992528
+8E:/8-core processor/Main Mux.v
+FE:/8-core processor/Main Mux.v
+!i122 55
+L0 1 38
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/Main Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Main Mux.v|
+!i113 1
+R6
+R7
+n@main_mux
+vMain_mux_tb
+R15
+!i10b 1
+!s100 ^^hlVL0fKeZo<zIcNIf^o0
+R1
+IT4mde13e>H1fSKKD9^03Q0
+R2
+R3
+w1624364664
+8E:/8-core processor/Main Mux tb.v
+FE:/8-core processor/Main Mux tb.v
+!i122 54
+L0 1 65
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/Main Mux tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Main Mux tb.v|
+!i113 1
+R6
+R7
+n@main_mux_tb
+vMulti_core
+R15
+!i10b 1
+!s100 LNJoO`6UJWo@l<N01A6S83
+R1
+IC3X8WLS=a74NNzh28g8BC2
+R2
+R3
+w1625762419
+8E:\8-core processor\Multi Core.v
+FE:\8-core processor\Multi Core.v
+!i122 56
+L0 1 74
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:\8-core processor\Multi Core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\Multi Core.v|
+!i113 1
+R6
+R7
+n@multi_core
+vProgram_counter
+R15
+!i10b 1
+!s100 Og]LX]CoHE;64zzC]NM7O1
+R1
+I6mi6<]52YJ5o8`Y^Qi9Xf3
+R2
+R3
+w1624427560
+8E:/8-core processor/Program Counter.v
+FE:/8-core processor/Program Counter.v
+!i122 58
+R14
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/Program Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Program Counter.v|
+!i113 1
+R6
+R7
+n@program_counter
+vProgram_counter_tb
+R15
+!i10b 1
+!s100 ?d9E1CPGP4H=UDMmMS]Hg3
+R1
+ImF:H?^0D9fIn4FY3o;ikN1
+R2
+R3
+w1624359286
+8E:/8-core processor/Program Counter tb.v
+FE:/8-core processor/Program Counter tb.v
+!i122 57
+L0 1 43
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/Program Counter tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Program Counter tb.v|
+!i113 1
+R6
+R7
+n@program_counter_tb
+vState_machine
+!s110 1625765087
+!i10b 1
+!s100 0m<[0L1R^5;ZPk8Mn6LK12
+R1
+IPS:Fb1z`Lj?d6;KZ_=d::2
+R2
+R3
+w1625765070
+8E:\8-core processor\State Machine.v
+FE:\8-core processor\State Machine.v
+!i122 64
+L0 1 1087
+R4
+r1
+!s85 0
+31
+!s108 1625765087.000000
+!s107 E:\8-core processor\State Machine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\State Machine.v|
+!i113 1
+R6
+R7
+n@state_machine
+vState_machine_tb
+R15
+!i10b 1
+!s100 <;WINhj_hgoiG64]<><Kh1
+R1
+I87=Nn[KTLo[7W`b`:]7C^3
+R2
+R3
+w1624361212
+8E:/8-core processor/State Machine tb.v
+FE:/8-core processor/State Machine tb.v
+!i122 59
+L0 1 71
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/State Machine tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/State Machine tb.v|
+!i113 1
+R6
+R7
+n@state_machine_tb
+vTop_module
+R15
+!i10b 1
+!s100 fWziIFi^?h39aboc]]22R0
+R1
+I?=kCKi^P`0Q_HC]aI=ALD1
+R2
+R3
+w1625761468
+8E:\8-core processor\Top Module.v
+FE:\8-core processor\Top Module.v
+!i122 62
+L0 1 112
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:\8-core processor\Top Module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\8-core processor\Top Module.v|
+!i113 1
+R6
+R7
+n@top_module
+vTop_module_tb
+R15
+!i10b 1
+!s100 XiO`3hZM=MHTUjTNM<RJB1
+R1
+Ic<AULFW^]:38ZPV20O3>N3
+R2
+R3
+w1624986734
+8E:/8-core processor/Top Module tb.v
+FE:/8-core processor/Top Module tb.v
+!i122 61
+L0 1 15
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/8-core processor/Top Module tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/8-core processor/Top Module tb.v|
+!i113 1
+R6
+R7
+n@top_module_tb

@@ -1,0 +1,67 @@
+vsim work.Multi_core
+# vsim work.Multi_core 
+# Start time: 22:48:00 on Jul 08,2021
+# Loading work.Multi_core
+# Loading work.Instruction_memory
+# Loading work.Data_memory
+# Loading work.Top_module
+# Loading work.ALU
+# Loading work.Main_mux
+# Loading work.State_machine
+# Loading work.Accumilator
+# Loading work.Program_counter
+# Loading work.Instruction_register
+# Loading work.Address_register
+# Loading work.Data_register
+# Loading work.General_purpose_register
+# Loading work.ALU_mux
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ps  Iteration: 0  Instance: /Multi_core/data_memory File: E:/8-core processor/Data Memory.v Line: 27
+add wave -position end  sim:/Multi_core/word
+run -all
+# ** Note: $finish    : E:/8-core processor/Multi Core.v(70)
+#    Time: 1182 ps  Iteration: 2  Instance: /Multi_core
+# 1
+# Break in Module Multi_core at E:/8-core processor/Multi Core.v line 70
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ps  Iteration: 0  Instance: /Multi_core/data_memory File: E:/8-core processor/Data Memory.v Line: 27
+run -all
+# ** Note: $finish    : E:/8-core processor/Multi Core.v(70)
+#    Time: 528006 ps  Iteration: 2  Instance: /Multi_core
+# 1
+# Break in Module Multi_core at E:/8-core processor/Multi Core.v line 70
+quit -sim
+# End time: 22:52:55 on Jul 08,2021, Elapsed time: 0:04:55
+# Errors: 0, Warnings: 2
+# Compile of ALU Mux.v was successful.
+# Compile of State Machine.v was successful.
+vsim work.Multi_core
+# vsim work.Multi_core 
+# Start time: 22:54:56 on Jul 08,2021
+# Loading work.Multi_core
+# Loading work.Instruction_memory
+# Loading work.Data_memory
+# Loading work.Top_module
+# Loading work.ALU
+# Loading work.Main_mux
+# Loading work.State_machine
+# Loading work.Accumilator
+# Loading work.Program_counter
+# Loading work.Instruction_register
+# Loading work.Address_register
+# Loading work.Data_register
+# Loading work.General_purpose_register
+# Loading work.ALU_mux
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ps  Iteration: 0  Instance: /Multi_core/data_memory File: E:/8-core processor/Data Memory.v Line: 27
+add wave -position end  sim:/Multi_core/word
+run -all
+# ** Note: $finish    : E:/8-core processor/Multi Core.v(70)
+#    Time: 3694794 ps  Iteration: 2  Instance: /Multi_core
+# 1
+# Break in Module Multi_core at E:/8-core processor/Multi Core.v line 70
+quit -sim
+# End time: 23:00:32 on Jul 08,2021, Elapsed time: 0:05:36
+# Errors: 0, Warnings: 4
